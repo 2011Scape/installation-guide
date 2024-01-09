@@ -178,4 +178,26 @@ If you are still having issues installing the game server, then we implore you t
 
 # File-Server Installation
 
-// TODO: File-Server Installation Guide
+In order to run 2011Scape locally, you need to run the File Server as well. 
+
+To do this, you must first clone the File Server:
+
+`git clone https://github.com/2011Scape/file-server`
+
+Next, you'll need to copy the cache files into file-server/cache like above with the Game Server.
+
+After you have copied the cache to the File Server, you must cd into it:
+
+`cd file-server`
+
+Now you need to run the File Server via Gradle. 
+
+If you are on Windows, you need to run this command:
+
+`gradlew.bat run`
+
+If you are on Linux, you need to run this command:
+
+`./gradlew run`
+
+After that, you should see the File Server running and ready to serve files to your local client.
