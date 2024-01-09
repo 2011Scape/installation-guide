@@ -184,7 +184,7 @@ To do this, you must first clone the File Server:
 
 `git clone https://github.com/2011Scape/file-server`
 
-Next, you'll need to copy the cache files into file-server/cache like above with the Game Server.
+Next, you'll need to copy the cache files into file-server/cache like we did earlier with the Game Server.
 
 After you have copied the cache to the File Server, you must cd into it:
 
