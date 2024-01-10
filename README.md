@@ -192,11 +192,11 @@ After you have copied the cache to the File Server, you must cd into it:
 
 Now you need to run the File Server via Gradle. 
 
-If you are on Windows, you need to run this command:
+If you are on Windows, you need to run this command via the command-line:
 
 `gradlew.bat run`
 
-If you are on Linux, you need to run this command:
+If you are on Linux, you need to run this command via the command-line:
 
 `./gradlew run`
 
