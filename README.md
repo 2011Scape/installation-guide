@@ -178,4 +178,41 @@ If you are still having issues installing the game server, then we implore you t
 
 # File-Server Installation
 
-// TODO: File-Server Installation Guide
+In order to run 2011Scape locally, you need to run the File Server as well. 
+
+To do this, you must first clone the File Server:
+
+`git clone https://github.com/2011Scape/file-server`
+
+Next, you'll need to copy the cache files into file-server/cache like we did earlier with the Game Server.
+
+After you have copied the cache to the File Server, you must cd into it:
+
+`cd file-server`
+
+Now you need to run the File Server via Gradle. 
+
+If you are on Windows, you need to run this command via the command-line:
+
+`gradlew.bat run`
+
+If you are on Linux, you need to run this command via the command-line:
+
+`./gradlew run`
+
+After that, you should see the File Server running and ready to serve files to your local client.
+
+
+# Client Installation
+
+Once you have the Game Server and File Server up and running, you need to start the client.
+
+To do this, you must first clone the client:
+
+`git clone https://github.com/2011Scape/rs-client`
+
+After that, you should open the rs-client folder in IntelliJ, then find RS2Loader.java in the file list and right click it, then select Run RS2Loader.main():
+
+![image](https://github.com/ipkpjersi/installation-guide/assets/33754783/75d5ff0f-9bcf-4185-9f1f-07804d2e4dbf)
+
+Now you should be able to log in to your local server.
