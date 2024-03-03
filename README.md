@@ -105,7 +105,7 @@ You can skip any of these downloads if you have them already installed, or saved
 <b>You should get a screen that looks like this. Allow some time for Gradle to download the required libraries and to set-up the project, for some computers this can take awhile so be patient!</b>
 <br>
 <br>
-<p align="center">
+<p align="left">
 <img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080018349288853554/image.png" />
 </p>
 <br>
@@ -117,14 +117,9 @@ You can skip any of these downloads if you have them already installed, or saved
 <b>Simply locate and extract the files from the cache.zip you downloaded, you want to make sure you're grabbing the raw files and not the folders.</b>
 <br>
 <br>
-<p align="center">
+<p align="left">
 <img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080019161251594240/image.png" />
 </p>
-<br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080019371918893076/image.png" />
-</p>
-<br>
 <br>
 <br>
 <br>
@@ -141,30 +136,25 @@ You can skip any of these downloads if you have them already installed, or saved
 <b>You should now have all the required files in place, which means next up is adding a Gradle run configuration. Follow the next 3 pictures and make sure your Run task is exactly how I wrote it. This is important to ensure that plugins are properly being built when running the server.</b>
 <br>
 <br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080019983381307443/image.png" />
+<p align="left">
+<img src="https://i.imgur.com/gso9o5k.png" />
 </p>
 <br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080020126629371924/image.png" />
+<p align="left">
+<img src="https://i.imgur.com/GwY0KSr.png" />
 </p>
-<br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080020251145670728/image.png" />
-</p>
-<br>
 <br>
 <br>
 <br>
 <b>Once you've done that, you can now run the server! Simply click on the "Play" button and if you've installed everything correctly, you should see a screen that looks like this.</b>
 <br>
 <br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080021221384654848/image.png" />
+<p align="left">
+<img src="https://i.imgur.com/WoNmXk4.png" />
 </p>
 <br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080021770909782066/image.png" />
+<p align="left">
+<img src="https://i.imgur.com/CRWL19O.png" />
 </p>
 <br>
 <br>
