@@ -33,7 +33,8 @@ You can skip any of these downloads if you have them already installed, or saved
 <br>
 <br>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080014884953129080/image.png" />
+<img src="https://github.com/2011Scape/installation-guide/assets/75695035/18ee80e5-e6a2-4efe-bf7a-68b425c8839a" />
+" />
 </p>
 <br>
 <br>
@@ -43,7 +44,7 @@ You can skip any of these downloads if you have them already installed, or saved
 <br>
 <br>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080015188553629726/image.png" />
+<img src="https://i.imgur.com/UELU2Lh.png" />
 </p>
 <br>
 <br>
