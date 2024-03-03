@@ -32,9 +32,8 @@ You can skip any of these downloads if you have them already installed, or saved
 <b>The first step of installation is the game server. To begin, we'll need to clone the repository. To begin, head to the game repository and fork the repository.</b>
 <br>
 <br>
-<p align="center">
-<img src="https://github.com/2011Scape/installation-guide/assets/75695035/18ee80e5-e6a2-4efe-bf7a-68b425c8839a" />
-" />
+<p align="left">
+<img src="https://i.imgur.com/UELU2Lh.png" />
 </p>
 <br>
 <br>
@@ -43,8 +42,8 @@ You can skip any of these downloads if you have them already installed, or saved
 <b>Feel free to name the fork whatever you wish, in my case I'll call it 2011Scape-game to make sure that I can recognize it when sifting through my personal repositories.</b>
 <br>
 <br>
-<p align="center">
-<img src="https://i.imgur.com/UELU2Lh.png" />
+<p align="left">
+<img src="https://github.com/2011Scape/installation-guide/assets/75695035/9ada7e5a-2c24-4cc9-89e5-1385e547bc1c" />
 </p>
 <br>
 <br>
@@ -53,8 +52,8 @@ You can skip any of these downloads if you have them already installed, or saved
 <b>Next, install and open up GitHub Desktop and start by signing in. Once you are signed in, you should see a screen like this.</b>
 <br>
 <br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080013590217633792/image.png" />
+<p align="left">
+<img src="https://i.imgur.com/20XQ5rB.png" />
 </p>
 <br>
 <br>
@@ -63,8 +62,8 @@ You can skip any of these downloads if you have them already installed, or saved
 <b>Now we'll want to clone the repository we just forked, click on "File" and then "Clone repository..."</b>
 <br>
 <br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080014026542686349/image.png" />
+<p align="left">
+<img src="https://i.imgur.com/AZVYeQQ.png" />
 </p>
 <br>
 <br>
@@ -73,8 +72,8 @@ You can skip any of these downloads if you have them already installed, or saved
 <b>Go ahead and search for the repository you just forked, and click "Clone"</b>
 <br>
 <br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080016546031738891/image.png" />
+<p align="left">
+<img src="https://i.imgur.com/1E73TGe.png" />
 </p>
 <br>
 <br>
@@ -83,8 +82,8 @@ You can skip any of these downloads if you have them already installed, or saved
 <b>You should finally come to a screen that looks like this, go ahead and keep the selection "To contribute to the parent project" active and click continue. Congratulations, you just finished forking and cloning the game server!</b>
 <br>
 <br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080017187995123783/image.png" />
+<p align="left">
+<img src="https://i.imgur.com/V2YK85L.png" />
 </p>
 <br>
 <br>
@@ -96,8 +95,8 @@ You can skip any of these downloads if you have them already installed, or saved
 <b>Next up we'll want to install the game server on IntelliJ. Make sure you have your cache and xteas downloaded, and IntelliJ installed. To make life easier for you, you can open up the project from GitHub desktop into IntelliJ like so.</b>
 <br>
 <br>
-<p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080017972090896404/image.png" />
+<p align="left">
+<img src="https://i.imgur.com/zrMeYeq.png" />
 </p>
 <br>
 <br>
