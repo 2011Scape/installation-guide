@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1067274729205010463/1082144752985702451/2011scapelogo.png" />
+  <img src="https://github.com/2011Scape/installation-guide/assets/75695035/6b99c832-6d62-4811-bdda-143d72c13c7a" />
   <br>
   <br>
   <br>
-  <img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080005453053956178/image.png" />
+  <img src="https://github.com/2011Scape/installation-guide/assets/75695035/98a1c8ff-03a3-4ded-9dc7-16851e9bdbf1" />
   <br>
 </p>
 
