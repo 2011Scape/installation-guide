@@ -3,9 +3,10 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/2011Scape/installation-guide/assets/75695035/98a1c8ff-03a3-4ded-9dc7-16851e9bdbf1" />
+  <img src="https://github.com/2011Scape/installation-guide/assets/75695035/f0e47247-b5f0-4c54-be77-18ce8106d06a" />
   <br>
 </p>
+
 
 # Installation Guide
 
