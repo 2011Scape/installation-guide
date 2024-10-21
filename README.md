@@ -107,7 +107,7 @@ You can skip any of these downloads if you have them already installed, or saved
 <br>
 <br>
 <p align="left">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080018349288853554/image.png" />
+<img src="https://i.imgur.com/gom8Cn0.png" />
 </p>
 <br>
 <br>
@@ -119,7 +119,7 @@ You can skip any of these downloads if you have them already installed, or saved
 <br>
 <br>
 <p align="left">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080019161251594240/image.png" />
+<img src="https://i.imgur.com/Es611N1.png" />
 </p>
 <br>
 <br>
@@ -128,7 +128,7 @@ You can skip any of these downloads if you have them already installed, or saved
 <br>
 <br>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1067274729205010463/1080019792636936262/image.png" />
+<img src="https://i.imgur.com/v3YmcHf.png" />
 </p>
 <br>
 <br>
