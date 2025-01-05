@@ -204,6 +204,6 @@ To do this, you must first clone the client:
 
 After that, you should open the stronghold-client folder in IntelliJ, then find Application.java in the file list and right click it, then select Run Application.main():
 
-![image](https://github.com/ipkpjersi/installation-guide/assets/33754783/75d5ff0f-9bcf-4185-9f1f-07804d2e4dbf)
+![image](https://github.com/user-attachments/assets/b8985b03-fed3-43d3-b103-8a267fbc3a32)
 
 Now you should be able to log in to your local server.
