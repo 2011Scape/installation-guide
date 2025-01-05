@@ -200,7 +200,7 @@ Once you have the Game Server and File Server up and running, you need to start 
 
 To do this, you must first clone the client:
 
-`git clone https://github.com/2011Scape/rs-client`
+`git clone https://github.com/2011Scape/stronghold-client`
 
 After that, you should open the rs-client folder in IntelliJ, then find RS2Loader.java in the file list and right click it, then select Run RS2Loader.main():
 
