@@ -202,7 +202,7 @@ To do this, you must first clone the client:
 
 `git clone https://github.com/2011Scape/stronghold-client`
 
-After that, you should open the rs-client folder in IntelliJ, then find RS2Loader.java in the file list and right click it, then select Run RS2Loader.main():
+After that, you should open the stronghold-client folder in IntelliJ, then find Application.java in the file list and right click it, then select Run Application.main():
 
 ![image](https://github.com/ipkpjersi/installation-guide/assets/33754783/75d5ff0f-9bcf-4185-9f1f-07804d2e4dbf)
 
