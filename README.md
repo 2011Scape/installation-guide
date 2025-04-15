@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/2011Scape/installation-guide/assets/75695035/6b99c832-6d62-4811-bdda-143d72c13c7a" />
+  ![2011Scape_2](https://github.com/user-attachments/assets/af54852f-3619-4e90-a040-9b24d69c379d)
   <br>
   <br>
   <br>
